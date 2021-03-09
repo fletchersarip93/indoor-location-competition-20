@@ -7,3 +7,8 @@
 
 .DS_Store
 */.DS_Store
+
+
+# my ignore
+__pycache__
+output
